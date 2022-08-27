@@ -1,2 +1,3 @@
 # hello-world
-This repository will introduce myself to the whole world.
+Hi! My name is Paula and I am a student of Python Programming.
+bla bla
